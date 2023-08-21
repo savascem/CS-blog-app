@@ -15,7 +15,7 @@ User authentication in this application is handled by using Class-Based views pr
 
 #### Step 1: Clone this repository to your computer.
 
-` git clone https://github.com/savascem/CS-Blog.git `
+` git clone https://github.com/savascem/CS-blog-app.git `
 
 #### Step 2: Run the application using Docker.
 
