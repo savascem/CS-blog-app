@@ -45,7 +45,6 @@
   },
   "proxy": "http://localhost:8000",
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.3",
     "sass": "^1.66.1",
