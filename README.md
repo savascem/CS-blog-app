@@ -1,6 +1,8 @@
 # Blog Application Created with Django REST Framework, ReactJS, and TailwindCSS
 In this application, Django REST Framework is used on the backend, while ReactJS is used on the frontend. The application's design is built with TailwindCSS.
 
+* project youtube video : https://www.youtube.com/watch?v=vB3Uwn4rG5I
+
 ## User Authentication
 User authentication in this application is handled by using Class-Based views provided by the Django SimpleJWT library on the backend, which associates JWTs with users to manage authentication on the frontend.
 
